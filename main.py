@@ -1,5 +1,5 @@
 
-%pip install nltk
+!pip install nltk
 import math
 import nltk
 nltk.download('punkt')
